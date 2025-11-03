@@ -77,7 +77,7 @@ export const heroHighlights: HeroHighlight[] = [
 
 export const profile: Profile = {
   name: "Davit Khvedelidze",
-  title: "Frontend Developer",
+  title: "Frontend / React Native Developer",
   location: "Tbilisi, Georgia",
   email: "davit.khvedelidze.11@gmail.com",
   phone: "+995 551 18 13 58",
